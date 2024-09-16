@@ -8,7 +8,6 @@ LLAMA 3.1, Open AI, Claude Sonnet etc
 
 ## Instructions to install the dependencies 
 
-run : 
 ### rename .env.example with .env
 ### provide your api keys if you want to use open-ai
 ```
