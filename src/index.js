@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-
+import dotenv from 'dotenv';
 import { askAppDetails, askQuestion } from './utils/interaction.js';
 import inquirer from 'inquirer';
 import { createNextAppWithProgress } from './utils/appCreation.js';
@@ -10,7 +10,6 @@ import chalk from 'chalk';
 
 import { dependencyPrompt } from './prompt/index.js';
 
-const model = 'llama3.1';
 const messages = [
   {
     role: 'system',

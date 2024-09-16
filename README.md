@@ -28,9 +28,7 @@ LLAMA 3.1, Open AI, Claude Sonnet etc
 
 
 ## Demo video 
-<video width="320" height="240" controls>
-  <source src="video.mov" type="docs/demo-video/demo.mp4">
-</video>
+link : https://drive.google.com/file/d/1vHCobBLiFTpfnp9BrNf3HYGlb74tRUn0/view?usp=sharing 
 
 ## Example promt for demo
 1. Create a to-do app using Next.js, and Tailwind CSS with a single page named 'Dashboard' consume To-doWrapper component with CRUD (Create, Read, Update, Delete) operations on to-do items with api created; include an input field and button for adding items, display items in a list format with options to edit, delete, and mark as completed using a checkbox; ensure real-time updates for adding, editing, and deleting items, and organize the code using functional components with comments for clarity. develop end to end app and wrapper component with entire app fully function
