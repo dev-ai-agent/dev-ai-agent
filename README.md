@@ -6,12 +6,12 @@ agent based project scaffolding and building framework.
 run : 
 ### rename .env.example with .env
 ### provide your api keys if you want to use open-ai
-
+```
 - node .src/index.js
 - npm install 
 - npm link
     - then run "dev-ai" cli from anywhere of the terminal 
-
+```
 ## Want to contribute ?
 
 - Stay tuned for project link for the list of features we are working on. 
