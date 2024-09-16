@@ -1,5 +1,10 @@
+<img src="docs/images/header.png" width="100%">
+
 # dev-ai-agent
 agent based project scaffolding and building framework.
+Not like a typical coding agent where you get help on existing project.
+Here you can scaffold a project and build on top of it using AI of your choice.
+LLAMA 3.1, Open AI, Claude Sonnet etc
 
 ## Instructions to install the dependencies 
 
@@ -16,6 +21,12 @@ run :
 
 - Stay tuned for project link for the list of features we are working on. 
 - Create issue for feature requests and bugs. We will work on this ASAP to fix it  
+
+
+## Architecture:
+
+<img src="docs/images/dev-ai-architecture.png" alt="architecutre">
+
 
 ## Example promt for demo
 1. Create a to-do app using Next.js, and Tailwind CSS with a single page named 'Dashboard' consume To-doWrapper component with CRUD (Create, Read, Update, Delete) operations on to-do items with api created; include an input field and button for adding items, display items in a list format with options to edit, delete, and mark as completed using a checkbox; ensure real-time updates for adding, editing, and deleting items, and organize the code using functional components with comments for clarity. develop end to end app and wrapper component with entire app fully function
