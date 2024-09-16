@@ -19,8 +19,8 @@ run :
 ```
 ## Want to contribute ?
 
-- Stay tuned for project link for the list of features we are working on. 
-- Create issue for feature requests and bugs. We will work on this ASAP to fix it  
+- Create a PR for the existing [issues](https://github.com/dev-ai-agent/dev-ai-agent/issues)
+- Create issue for feature requests and bugs. We will work on this ASAP to fix it. [Project page](https://github.com/orgs/dev-ai-agent/projects/1)
 
 
 ## Architecture:
